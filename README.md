@@ -10,10 +10,19 @@ Plak de onderstaande code naar je arduino en verander de WiFi-credentials naar j
 
 # Error
 Op het moment dat ik mijn code wilde valideren, kwamen er zoveel errors naar voren dat ik niet wist waar ik moest beginnen. 
+
 <img src="img\errors.png" width="375px" alt="error overload">
+
 Ik heb verschillende zoekopdrachten gedaan en pogingen geprobeerd, die uiteindelijk niets opleverden. 
 De error die onderaan staat: 'Compilation error: exit status 1'. 
 Dit betekent dat er tijdens het compilen en het uploaden van de code naar het board, dat daar iets mis gaat. 
+
+# Stap 3 - Begin opnieuw
+Nadat de eerste poging is mislukt, heb ik een [andere guide](https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/) gepakt. 
+
+Dit stappenplan is vrij makkelijk. 
+**LET OP** Je moet 2 libraries installeren. 
+
 
 
 
