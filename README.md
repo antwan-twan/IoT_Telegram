@@ -23,9 +23,19 @@ Nadat de eerste poging is mislukt, heb ik een [andere guide](https://randomnerdt
 
 Dit stappenplan is vrij makkelijk. 
 
-**LET OP** Je moet 2 libraries installeren. 
+**LET OP!** Je moet 2 libraries installeren. 
 
+Vul op de juiste plaats je verschillende tokens in. 
 
+Er mag wel **duidelijk** worden bijgezet dat je de gehele lange token vanuit de BotFather mag worden overgenomen. Deze ziet er ongeveer zo uit: XXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXX
+
+Het was niet duidelijk dat het gedeelte voor de dubbele punt ook mee deed. 
+
+# Stap 4 - Success?
+Het aansturen van het LEDje op de board is gelukt. Al is het bij dit specifieke board precies andersom; /led_on zet je LED uit en bij /led_off juist aan. 
+>Dit kan je overigens aanpassen, maar had ik geen tijd voor. 
+
+Ik begreep vrij weinig van de code die al voor mij geschreven was. Ik wilde de LEDstrip er aan verbinden, maar ik heb te weinig kennis van de LEDstrip en de library daarvan. 
 
 
 
