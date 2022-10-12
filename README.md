@@ -18,6 +18,8 @@ Ik heb verschillende zoekopdrachten gedaan en pogingen geprobeerd, die uiteindel
 De error die onderaan staat: 'Compilation error: exit status 1'. 
 Dit betekent dat er tijdens het compilen en het uploaden van de code naar het board, dat daar iets mis gaat. 
 
+Het heeft ook te maken met de verschillende errors die er boven staan. Ik denk dat er een error in de code zit die ik heb gebruikt.
+
 # Stap 3 - Begin opnieuw
 Nadat de eerste poging is mislukt, heb ik een [andere guide](https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/) gepakt. 
 
