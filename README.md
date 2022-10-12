@@ -1,7 +1,7 @@
 # Stap 1 - Begin
 1. Maak een telegram account aan. 
 2. Voor dat je begint, installeer je in Arduino IDE de library
->> Doe dat via deze [link](https://github.com/CasaJasmina/TelegramBot-Library)
+> Doe dat via deze [link](https://github.com/CasaJasmina/TelegramBot-Library)
     
     1. Vergeet niet de Library te installeren die ook wordt aangeraden door de TelegramBot Library. 
 
